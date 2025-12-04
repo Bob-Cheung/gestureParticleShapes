@@ -1,6 +1,6 @@
 # 简单的手势交互粒子
 
-### 演示地址 [https://juejin.cn/post/7087709355159268100]
+### 演示地址: https://bob-cheung.github.io/gestureParticleShapes/
 
 - 使用 Gemini AI 生成的代码
 - 提示词：
